@@ -342,7 +342,7 @@ function SELFAQ.suitInit()
 
     do
         local t = f:CreateFontString(nil, "ARTWORK", "GameFontHighlight")
-        t:SetText(L["#Don't change clock when you are in Nefarian's Lair"])
+        t:SetText(L["#Don't change cloak when you are in Nefarian's Lair"])
         t:SetPoint("TOPLEFT", f, 52, -78)
     end
 
