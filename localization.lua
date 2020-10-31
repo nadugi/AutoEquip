@@ -48,7 +48,7 @@ if locale == 'zhCN' or locale == 'zhTW' then
 	L["Equip |cff0070dd[Onyxia Scale Cloak]|r when entering |cffffffffNefarian's Lair|r"] = "进入|cffffffff奈法利安的巢穴|r装备|cff0070dd[奥妮克希亚鳞片披风]|r"
 	L["Remind on Raid channel when auto-equiped |cff0070dd[Onyxia Scale Cloak]|r"] = "自动装备|cff0070dd[奥妮克希亚鳞片披风]|r后在团队频道发出提醒"
 
-	L["#Don't change clock when you are in Nefarian's Lair"] = "#进入 奈法利安的巢穴 后不会更换披风"
+	L["#Don't change cloak when you are in Nefarian's Lair"] = "#进入 奈法利安的巢穴 后不会更换披风"
 
 	L["Expand Settings"] = "展开设置列表"
 
